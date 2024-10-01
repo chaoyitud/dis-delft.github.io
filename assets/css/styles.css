@@ -861,7 +861,7 @@ footer h3 {
 
 .people-item-name {
     color: black;
-    word-break: break-all;
+    word-break: break-word;
 }
 
 .people-item-name:hover {
